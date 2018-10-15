@@ -1,13 +1,14 @@
 source 'https://rubygems.org'
+gem 'pry'
 ruby '2.5.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.13'
+gem 'rails', '4.2.8'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'  #'1.3.8'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '4.0.3'
+gem 'sass-rails'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
