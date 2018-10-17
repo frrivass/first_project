@@ -1,4 +1,5 @@
 vendor
 .bundle
 .idea
-log
+/log/*.log
+/tmp
